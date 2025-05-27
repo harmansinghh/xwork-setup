@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p21002-e1571066.adobeaemcloud.com/bin/franklin.delivery/harmansinghh/xwork-setup/main
+    type: "markup"
+    suffix: ".html"
